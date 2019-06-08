@@ -23,10 +23,6 @@ Go to the sample app location
 
 Open Podfile in a text editor of your choice and note the following lines in the Podfile
 
-`source 'https://github.com/ibm-watson-cxa/EOCore.git'`
-
-`source 'https://github.com/ibm-watson-cxa/IBMTealeaf.git'`
-
 `source 'https://github.com/CocoaPods/Specs.git'`
 
 Also note the platform in the Podfile iOS 9
